@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Zerobase_13_Deep Learning/dataset/.DS_Store
+Zerobase_13_Deep Learning/dataset/Face Mask Dataset/.DS_Store
+Zerobase_13_Deep Learning/dataset/Face Mask Dataset/Test/.DS_Store
+Zerobase_13_Deep Learning/.DS_Store

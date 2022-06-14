@@ -39,6 +39,8 @@
 > `conda install pytorch torchvision torchaudio -c pytorch`\
 > `pip install torch
 
+-------------------------------------------
+
 ## `Tensorflow` 및 `PyTorch` 강의 자료 백업
 - 전체 자료 백업 완료
 

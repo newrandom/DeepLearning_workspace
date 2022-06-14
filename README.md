@@ -1,6 +1,7 @@
 # 딥러닝 Workspace _ Zero-base DS School
 
 > ## 사전 설정 : macbook m1 에서 tensorflow 설치
+> (참고 : https://webnautes.tistory.com/1639)
 
 > ### 1. MacBook M1에 Xcode 설치
 >> https://webnautes.tistory.com/1570

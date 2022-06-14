@@ -31,6 +31,8 @@
 >> `tf.config.list_physical_devices('GPU')`\
 >> `[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU']` 라고 뜨면 사용 가능
 
+------------------------------------------
+
 > ## 사전설정 : macbook m1 에서 pytorch 설치
 > (참고 : https://pytorch.org/get-started/locally/)
 >

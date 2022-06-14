@@ -10,8 +10,8 @@
 >> https://webnautes.tistory.com/1638
 >
 > ### 3. conda 가상환경 생성 및 활성화
->> [Developer.apple.com](https://developer.apple.com/metal/tensorflow-plugin/)
->> `conda create -n tensorflow-dev python=3.8`
+>> [Developer.apple.com](https://developer.apple.com/metal/tensorflow-plugin/)\
+>> `conda create -n tensorflow-dev python=3.8`\
 >> `conda activate tensorflow-dev`
 >
 > ### 4. TensorFlow dependencies 설치
@@ -28,7 +28,7 @@
 >> `tf.__version__`
 >
 > ### 8. GPU 사용 가능여부 확인   
->> `tf.config.list_physical_devices('GPU')`
+>> `tf.config.list_physical_devices('GPU')`\
 >> `[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU']` 라고 뜨면 사용 가능
 
 ## `Tensorflow` 및 `PyTorch` 강의 자료 백업
